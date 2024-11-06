@@ -1,1 +1,1 @@
-recovery string: 
+model: HANA D6A-D7H-A2A-G6I-B2Y-A8J
